@@ -3,7 +3,7 @@ print(f'Follow {nottacosdev} on Github')
 ```
 
 ```python
-Languages  :  Python, Js, Haxe, HTML/CSS
+Languages  :  Python, Js, HTML/CSS, C#, C++
 ```
 
 ```json
